@@ -8,8 +8,8 @@ I’m a **Full Stack Developer (MERN)** passionate about JavaScript and building
 - 🎓 **Education**: 
   - Diploma in Computer Technology, Daffodil Institute of IT (DIIT) (2018 - 2022)
   - BSc in Computer Science & Engineering, Port City International University (PCIU) (2023 – Present)
-- 🌱 I’m currently learning **Next.js**, advanced **React** patterns, and **system design**.
-- 💡 I love experimenting with **JavaScript** and finding new ways to solve problems.
+- 🌱 After learning **React** and **Next.js**, I am now delving deeper into advanced concepts like server-side rendering (SSR), static site generation (SSG), and optimizing performance in full-stack applications.
+- 💡 I love experimenting with **JavaScript** and building robust, scalable web applications.
 - 🌍 Based in Chattogram, Bangladesh.
 
 ---
