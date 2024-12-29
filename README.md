@@ -28,25 +28,25 @@ I’m a **Full Stack Developer (MERN)** passionate about JavaScript and building
 - **Description**: A Next.js app with Tailwind CSS and MongoDB, offering image/meta optimization, SEO (Google Schema), email on payment, Mongoose auth, and server-side search with debouncing. It ensures fast, scalable performance and a seamless user experience.
 - **Tech Stack**: Next.js, Tailwind CSS, MongoDB, Mongoose, SEO, Server-side Search.
 - **Live Demo**: [gatherly-event.netlify.app](https://gatherly-event.netlify.app)
-- **GitHub Repository**: [View on GitHub](https://github.com/chotonSam/event-booking-app)
+- **GitHub Repository**: [View on GitHub](https://github.com/chotonSam/getherly)
 
 ### [Video Streaming App](https://pixel-play-iota.vercel.app)
 - **Description**: A video streaming platform built with Next.js and Tailwind CSS, enabling seamless video browsing and playback. It features parallel routing, intercepting routing for smooth navigation, and internationalization support for a personalized experience across multiple languages.
 - **Tech Stack**: Next.js, Tailwind CSS, Video Streaming, Internationalization.
 - **Live Demo**: [pixel-play-iota.vercel.app](https://pixel-play-iota.vercel.app)
-- **GitHub Repository**: [View on GitHub](https://github.com/chotonSam/video-streaming-app)
+- **GitHub Repository**: [View on GitHub](https://github.com/chotonSam/Pixel-Play)
 
 ### [Daily Task Management App](https://daily-task-tan.vercel.app)
 - **Description**: A task management app with features like create, edit, delete, and mark tasks as favorite. Includes search, filters, toast notifications, and confirmation modals.
 - **Tech Stack**: React, Tailwind CSS, React-Toastify, SweetAlert2.
 - **Live Demo**: [daily-task-tan.vercel.app](https://daily-task-tan.vercel.app)
-- **GitHub Repository**: [View on GitHub](https://github.com/chotonSam/daily-task-app)
+- **GitHub Repository**: [View on GitHub](https://github.com/chotonSam/Daily-Task)
 
 ### [Weather Dashboard App](https://weather-board-eight.vercel.app)
 - **Description**: Provides real-time weather updates using the OpenWeatherMap API. Features auto-location detection, city search, and saving favorites. Fully responsive and dynamic.
 - **Tech Stack**: React, Tailwind CSS, OpenWeatherMap API.
 - **Live Demo**: [weather-board-eight.vercel.app](https://weather-board-eight.vercel.app)
-- **GitHub Repository**: [View on GitHub](https://github.com/chotonSam/weather-dashboard)
+- **GitHub Repository**: [View on GitHub](https://github.com/chotonSam/weather-Board)
 
 ---
 
