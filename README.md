@@ -27,7 +27,7 @@ I’m a **Full Stack Developer (MERN)** passionate about JavaScript and building
 ### [Movie Database App](https://cinetic-nine.vercel.app)
 - **Description**: This fully functional Next.js app provides a dynamic and interactive movie discovery platform. It features custom API endpoints built using Next.js API routes to fetch data from the TMDB API, ensuring seamless integration and efficient data handling. The app includes a hero section slider for enhanced visual appeal and progressive rendering for related movies. Users can compare movies, add movies to a "Watch Later" list, and share movie details on social media. The platform incorporates Google API integration for embedding YouTube videos, login and registration functionality backed by MongoDB, and robust handling of error and "Not Found" pages. These features come together to deliver secure data management, smooth user interaction, and an engaging movie browsing experience.
 - **Tech Stack**: Next.js, Tailwind CSS, MongoDB, Mongoose, TMDB API, Google API, Server-side Search, SEO, Meta data.
-- **Live Demo**: [github.com/chotonSam/cinetic](https://github.com/chotonSam/cinetic)
+- **Live Demo**: [cinetic-nine.vercel.app](https://cinetic-nine.vercel.app)
 - **GitHub Repository**: [View on GitHub](https://github.com/chotonSam/getherly)
 
 ### [Event Booking App](https://gatherly-event.netlify.app)
