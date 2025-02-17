@@ -26,7 +26,7 @@ I’m a **Full Stack Developer (MERN)** passionate about JavaScript and building
 
 ### [Hotel Booking App](https://cinetic-nine.vercel.app)
 - **Description**:Innsider is a full-stack hotel booking platform built with Next.js, MongoDB, and Next-Auth for authentication. The project follows a structured approach, starting with a well-defined component architecture and database design. The MongoDB database is set up with collections and schemas to manage hotels, users, bookings, and reviews. Authentication is implemented using OAuth2 with Google, along with credential-based login, and session storage in MongoDB. Protected routes ensure secure access, while API routing handles user registration, login, and profile management. The platform features a complete hotel listing with search, filters, and dynamic hotel details fetched from the database. Users can book hotels, leave reviews and ratings, and view their booking history in the profile section. The project is designed for scalability, security, and an intuitive user experience, making it a robust solution for hotel reservations.
-- **Tech Stack**: Next.js, Tailwind CSS, MongoDB, Mongoose, TMDB API, Google API, Server-side Search, SEO, Meta data.
+- **Tech Stack**: Next.js, MongoDB, Next-Auth, OAuth2, Mongoose, Tailwind CSS, Google OAuth
 - **Live Demo**: [cinetic-nine.vercel.app](https://cinetic-nine.vercel.app)
 - **GitHub Repository**: [View on GitHub](https://github.com/chotonSam/cinetic)
 
